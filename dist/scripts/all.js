@@ -1,0 +1,1 @@
+function foo(){var n="pan";return{getName:function(){return n},setName:function(e){return n=e}}}console.log("double fill");
